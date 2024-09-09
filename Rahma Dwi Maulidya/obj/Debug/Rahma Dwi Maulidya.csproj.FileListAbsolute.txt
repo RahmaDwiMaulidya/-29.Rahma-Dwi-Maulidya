@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Rahma Dwi Maulidya\bin\Debug\Rahma Dwi Maulidya.exe.config
+C:\Users\User\source\repos\Rahma Dwi Maulidya\bin\Debug\Rahma Dwi Maulidya.exe
+C:\Users\User\source\repos\Rahma Dwi Maulidya\bin\Debug\Rahma Dwi Maulidya.pdb
+C:\Users\User\source\repos\Rahma Dwi Maulidya\obj\Debug\Rahma Dwi Maulidya.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Rahma Dwi Maulidya\obj\Debug\Rahma Dwi Maulidya.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rahma Dwi Maulidya\obj\Debug\Rahma Dwi Maulidya.exe
+C:\Users\User\source\repos\Rahma Dwi Maulidya\obj\Debug\Rahma Dwi Maulidya.pdb
